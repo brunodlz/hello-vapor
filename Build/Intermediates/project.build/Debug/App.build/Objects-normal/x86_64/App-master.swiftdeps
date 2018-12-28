@@ -1,0 +1,8 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.40 clang-1000.11.45.1)"
+options: "d8913073589538aa93b3fbeba7efe6f9"
+build_time: [1546026168, 998461000]
+inputs:
+  "/Users/brunodaluz/Desktop/project/Sources/App/app.swift": [1546025846, 0]
+  "/Users/brunodaluz/Desktop/project/Sources/App/boot.swift": [1546025846, 0]
+  "/Users/brunodaluz/Desktop/project/Sources/App/configure.swift": [1546025846, 0]
+  "/Users/brunodaluz/Desktop/project/Sources/App/routes.swift": [1546025846, 0]

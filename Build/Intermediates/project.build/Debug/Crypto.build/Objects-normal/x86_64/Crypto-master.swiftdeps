@@ -1,0 +1,23 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.40 clang-1000.11.45.1)"
+options: "41d9e04d353181eabc452d3d5b7bf71b"
+build_time: [1546026152, 488115000]
+inputs:
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/crypto.git-1969615232318165506/Sources/Crypto/BCrypt/BCryptDigest.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/crypto.git-1969615232318165506/Sources/Crypto/Cipher/AuthenticatedCipher.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/crypto.git-1969615232318165506/Sources/Crypto/Cipher/AuthenticatedCipherAlgorithm.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/crypto.git-1969615232318165506/Sources/Crypto/Cipher/Cipher.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/crypto.git-1969615232318165506/Sources/Crypto/Cipher/CipherAlgorithm.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/crypto.git-1969615232318165506/Sources/Crypto/Cipher/OpenSSLCipherAlgorithm.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/crypto.git-1969615232318165506/Sources/Crypto/Cipher/OpenSSLStreamCipher.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/crypto.git-1969615232318165506/Sources/Crypto/Digest/Digest.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/crypto.git-1969615232318165506/Sources/Crypto/Digest/DigestAlgorithm.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/crypto.git-1969615232318165506/Sources/Crypto/MAC/HMAC.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/crypto.git-1969615232318165506/Sources/Crypto/MAC/OTP.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/crypto.git-1969615232318165506/Sources/Crypto/RSA/RSA.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/crypto.git-1969615232318165506/Sources/Crypto/RSA/RSAKey.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/crypto.git-1969615232318165506/Sources/Crypto/RSA/RSAPadding.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/crypto.git-1969615232318165506/Sources/Crypto/Random/CryptoRandom.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/crypto.git-1969615232318165506/Sources/Crypto/Utilities/Base32.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/crypto.git-1969615232318165506/Sources/Crypto/Utilities/CryptoError.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/crypto.git-1969615232318165506/Sources/Crypto/Utilities/Deprecated.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/crypto.git-1969615232318165506/Sources/Crypto/Utilities/Exports.swift": [1546026123, 0]

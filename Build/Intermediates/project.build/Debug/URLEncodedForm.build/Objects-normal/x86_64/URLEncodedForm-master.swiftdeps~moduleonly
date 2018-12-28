@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.40 clang-1000.11.45.1)"
+options: "60e7f406686e53bdaea1a2b026bafa04"
+build_time: [1546026152, 488654000]
+inputs:
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/url-encoded-form.git-8532762057692740576/Sources/URLEncodedForm/Codable/URLEncodedFormDecoder.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/url-encoded-form.git-8532762057692740576/Sources/URLEncodedForm/Codable/URLEncodedFormEncoder.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/url-encoded-form.git-8532762057692740576/Sources/URLEncodedForm/Data/URLEncodedFormData.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/url-encoded-form.git-8532762057692740576/Sources/URLEncodedForm/Data/URLEncodedFormDataConvertible.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/url-encoded-form.git-8532762057692740576/Sources/URLEncodedForm/Data/URLEncodedFormParser.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/url-encoded-form.git-8532762057692740576/Sources/URLEncodedForm/Data/URLEncodedFormSerializer.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/url-encoded-form.git-8532762057692740576/Sources/URLEncodedForm/Utilities/Exports.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/url-encoded-form.git-8532762057692740576/Sources/URLEncodedForm/Utilities/URLEncodedFormError.swift": [1546026121, 0]

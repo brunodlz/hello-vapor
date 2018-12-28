@@ -1,0 +1,19 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.40 clang-1000.11.45.1)"
+options: "16031f648afd04fbcce30a7d7989bcbb"
+build_time: [1546026149, 227260000]
+inputs:
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio-ssl.git-6229230015178651706/Sources/NIOOpenSSL/ByteBufferBIO.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio-ssl.git-6229230015178651706/Sources/NIOOpenSSL/IdentityVerification.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio-ssl.git-6229230015178651706/Sources/NIOOpenSSL/OpenSSLClientHandler.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio-ssl.git-6229230015178651706/Sources/NIOOpenSSL/OpenSSLHandler.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio-ssl.git-6229230015178651706/Sources/NIOOpenSSL/OpenSSLServerHandler.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio-ssl.git-6229230015178651706/Sources/NIOOpenSSL/PosixPort.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio-ssl.git-6229230015178651706/Sources/NIOOpenSSL/SSLCertificate.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio-ssl.git-6229230015178651706/Sources/NIOOpenSSL/SSLConnection.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio-ssl.git-6229230015178651706/Sources/NIOOpenSSL/SSLContext.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio-ssl.git-6229230015178651706/Sources/NIOOpenSSL/SSLErrors.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio-ssl.git-6229230015178651706/Sources/NIOOpenSSL/SSLInit.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio-ssl.git-6229230015178651706/Sources/NIOOpenSSL/SSLPKCS12Bundle.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio-ssl.git-6229230015178651706/Sources/NIOOpenSSL/SSLPointerTricks.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio-ssl.git-6229230015178651706/Sources/NIOOpenSSL/SSLPrivateKey.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio-ssl.git-6229230015178651706/Sources/NIOOpenSSL/TLSConfiguration.swift": [1546026121, 0]

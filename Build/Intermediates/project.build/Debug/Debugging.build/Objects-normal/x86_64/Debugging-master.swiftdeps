@@ -1,0 +1,7 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.40 clang-1000.11.45.1)"
+options: "9bde7574f30cb3e94871f729f0535839"
+build_time: [1546026140, 978567000]
+inputs:
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/core.git-3993699855654508100/Sources/Debugging/Debuggable.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/core.git-3993699855654508100/Sources/Debugging/Demangler.swift": [1546026121, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/core.git-3993699855654508100/Sources/Debugging/SourceLocation.swift": [1546026121, 0]

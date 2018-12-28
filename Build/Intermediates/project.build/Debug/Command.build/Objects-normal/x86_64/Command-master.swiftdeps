@@ -1,0 +1,20 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.40 clang-1000.11.45.1)"
+options: "ca1dad2cf7a16d025d2b3dc48b66aff6"
+build_time: [1546026163, 981480000]
+inputs:
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/console.git-1708081412620427180/Sources/Command/Base/CommandOption.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/console.git-1708081412620427180/Sources/Command/Base/CommandRunnable.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/console.git-1708081412620427180/Sources/Command/Command/Command.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/console.git-1708081412620427180/Sources/Command/Command/CommandArgument.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/console.git-1708081412620427180/Sources/Command/Config/CommandConfig.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/console.git-1708081412620427180/Sources/Command/Config/Commands.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/console.git-1708081412620427180/Sources/Command/Group/BasicCommandGroup.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/console.git-1708081412620427180/Sources/Command/Group/CommandGroup.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/console.git-1708081412620427180/Sources/Command/Run/CommandContext.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/console.git-1708081412620427180/Sources/Command/Run/CommandInput.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/console.git-1708081412620427180/Sources/Command/Run/Console+Run.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/console.git-1708081412620427180/Sources/Command/Run/Output+Autocomplete.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/console.git-1708081412620427180/Sources/Command/Run/Output+Help.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/console.git-1708081412620427180/Sources/Command/Utilities/CommandError.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/console.git-1708081412620427180/Sources/Command/Utilities/Exports.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/console.git-1708081412620427180/Sources/Command/Utilities/Utilities.swift": [1546026122, 0]

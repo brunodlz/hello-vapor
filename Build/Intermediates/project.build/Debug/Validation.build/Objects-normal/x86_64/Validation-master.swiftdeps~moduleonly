@@ -1,0 +1,22 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.40 clang-1000.11.45.1)"
+options: "a970ee5e6fcc0724ddec519f6badcb7e"
+build_time: [1546026152, 488662000]
+inputs:
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/validation.git-4244593134350332866/Sources/Validation/Exports.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/validation.git-4244593134350332866/Sources/Validation/Validatable.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/validation.git-4244593134350332866/Sources/Validation/ValidationError.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/validation.git-4244593134350332866/Sources/Validation/Validations.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/validation.git-4244593134350332866/Sources/Validation/Validator.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/validation.git-4244593134350332866/Sources/Validation/ValidatorType.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/validation.git-4244593134350332866/Sources/Validation/Validators/AndValidator.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/validation.git-4244593134350332866/Sources/Validation/Validators/CharacterSetValidator.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/validation.git-4244593134350332866/Sources/Validation/Validators/CountValidator.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/validation.git-4244593134350332866/Sources/Validation/Validators/EmailValidator.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/validation.git-4244593134350332866/Sources/Validation/Validators/EmptyValidator.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/validation.git-4244593134350332866/Sources/Validation/Validators/InValidator.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/validation.git-4244593134350332866/Sources/Validation/Validators/NilIgnoringValidator.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/validation.git-4244593134350332866/Sources/Validation/Validators/NilValidator.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/validation.git-4244593134350332866/Sources/Validation/Validators/NotValidator.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/validation.git-4244593134350332866/Sources/Validation/Validators/OrValidator.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/validation.git-4244593134350332866/Sources/Validation/Validators/RangeValidator.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/validation.git-4244593134350332866/Sources/Validation/Validators/URLValidator.swift": [1546026123, 0]

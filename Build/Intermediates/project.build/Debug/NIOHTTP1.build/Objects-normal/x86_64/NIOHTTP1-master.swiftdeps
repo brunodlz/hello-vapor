@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.40 clang-1000.11.45.1)"
+options: "a366839e5459f86800e8821b8bc9717f"
+build_time: [1546026147, 642816000]
+inputs:
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio.git--325538877768392360/Sources/NIOHTTP1/HTTPDecoder.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio.git--325538877768392360/Sources/NIOHTTP1/HTTPEncoder.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio.git--325538877768392360/Sources/NIOHTTP1/HTTPPipelineSetup.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio.git--325538877768392360/Sources/NIOHTTP1/HTTPResponseCompressor.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio.git--325538877768392360/Sources/NIOHTTP1/HTTPServerPipelineHandler.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio.git--325538877768392360/Sources/NIOHTTP1/HTTPServerProtocolErrorHandler.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio.git--325538877768392360/Sources/NIOHTTP1/HTTPTypes.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio.git--325538877768392360/Sources/NIOHTTP1/HTTPUpgradeHandler.swift": [1546026122, 0]

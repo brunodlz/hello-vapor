@@ -1,0 +1,12 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.40 clang-1000.11.45.1)"
+options: "810a5ab412f65f8b4723f843ce3dfb35"
+build_time: [1546026166, 528940000]
+inputs:
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/leaf.git-7127226566623389109/Sources/Leaf/Parser/Byte+Leaf.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/leaf.git-7127226566623389109/Sources/Leaf/Parser/LeafParser.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/leaf.git-7127226566623389109/Sources/Leaf/Renderer/LeafRenderer.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/leaf.git-7127226566623389109/Sources/Leaf/Service/LeafConfig.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/leaf.git-7127226566623389109/Sources/Leaf/Service/LeafProvider.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/leaf.git-7127226566623389109/Sources/Leaf/Service/LeafTagConfig.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/leaf.git-7127226566623389109/Sources/Leaf/Utilities/Data.swift": [1546026122, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/leaf.git-7127226566623389109/Sources/Leaf/Utilities/Exports.swift": [1546026122, 0]

@@ -1,0 +1,265 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["s5UInt8V", ""]
+- ["s5UInt8V", "isAllowedInIdentifier"]
+- ["s5UInt8V", "isAllowedInTagName"]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "=="
+- "Bool"
+- "Byte"
+- !private "||"
+depends-member:
+- !private ["4Core22AnyReflectionDecodableP", "asterisk"]
+- !private ["4Core22AnyReflectionDecodableP", "colon"]
+- !private ["4Core22AnyReflectionDecodableP", "forwardSlash"]
+- !private ["4Core22AnyReflectionDecodableP", "hyphen"]
+- !private ["4Core22AnyReflectionDecodableP", "isAlphanumeric"]
+- !private ["4Core22AnyReflectionDecodableP", "period"]
+- !private ["4Core22AnyReflectionDecodableP", "underscore"]
+- !private ["21NIOConcurrencyHelpers15AtomicPrimitiveP", "asterisk"]
+- !private ["21NIOConcurrencyHelpers15AtomicPrimitiveP", "colon"]
+- !private ["21NIOConcurrencyHelpers15AtomicPrimitiveP", "forwardSlash"]
+- !private ["21NIOConcurrencyHelpers15AtomicPrimitiveP", "hyphen"]
+- !private ["21NIOConcurrencyHelpers15AtomicPrimitiveP", "isAlphanumeric"]
+- !private ["21NIOConcurrencyHelpers15AtomicPrimitiveP", "period"]
+- !private ["21NIOConcurrencyHelpers15AtomicPrimitiveP", "underscore"]
+- !private ["Sz", "asterisk"]
+- !private ["Sz", "colon"]
+- !private ["Sz", "forwardSlash"]
+- !private ["Sz", "hyphen"]
+- !private ["Sz", "isAlphanumeric"]
+- !private ["Sz", "period"]
+- !private ["Sz", "underscore"]
+- !private ["s7CVarArgP", "asterisk"]
+- !private ["s7CVarArgP", "colon"]
+- !private ["s7CVarArgP", "forwardSlash"]
+- !private ["s7CVarArgP", "hyphen"]
+- !private ["s7CVarArgP", "isAlphanumeric"]
+- !private ["s7CVarArgP", "period"]
+- !private ["s7CVarArgP", "underscore"]
+- !private ["SL", "asterisk"]
+- !private ["SL", "colon"]
+- !private ["SL", "forwardSlash"]
+- !private ["SL", "hyphen"]
+- !private ["SL", "isAlphanumeric"]
+- !private ["SL", "period"]
+- !private ["SL", "underscore"]
+- !private ["s29CustomPlaygroundQuickLookableP", "asterisk"]
+- !private ["s29CustomPlaygroundQuickLookableP", "colon"]
+- !private ["s29CustomPlaygroundQuickLookableP", "forwardSlash"]
+- !private ["s29CustomPlaygroundQuickLookableP", "hyphen"]
+- !private ["s29CustomPlaygroundQuickLookableP", "isAlphanumeric"]
+- !private ["s29CustomPlaygroundQuickLookableP", "period"]
+- !private ["s29CustomPlaygroundQuickLookableP", "underscore"]
+- !private ["s17CustomReflectableP", "asterisk"]
+- !private ["s17CustomReflectableP", "colon"]
+- !private ["s17CustomReflectableP", "forwardSlash"]
+- !private ["s17CustomReflectableP", "hyphen"]
+- !private ["s17CustomReflectableP", "isAlphanumeric"]
+- !private ["s17CustomReflectableP", "period"]
+- !private ["s17CustomReflectableP", "underscore"]
+- !private ["s23CustomStringConvertibleP", "asterisk"]
+- !private ["s23CustomStringConvertibleP", "colon"]
+- !private ["s23CustomStringConvertibleP", "forwardSlash"]
+- !private ["s23CustomStringConvertibleP", "hyphen"]
+- !private ["s23CustomStringConvertibleP", "isAlphanumeric"]
+- !private ["s23CustomStringConvertibleP", "period"]
+- !private ["s23CustomStringConvertibleP", "underscore"]
+- !private ["Se", "asterisk"]
+- !private ["Se", "colon"]
+- !private ["Se", "forwardSlash"]
+- !private ["Se", "hyphen"]
+- !private ["Se", "isAlphanumeric"]
+- !private ["Se", "period"]
+- !private ["Se", "underscore"]
+- !private ["SE", "asterisk"]
+- !private ["SE", "colon"]
+- !private ["SE", "forwardSlash"]
+- !private ["SE", "hyphen"]
+- !private ["SE", "isAlphanumeric"]
+- !private ["SE", "period"]
+- !private ["SE", "underscore"]
+- !private ["SQ", "asterisk"]
+- !private ["SQ", "colon"]
+- !private ["SQ", "forwardSlash"]
+- !private ["SQ", "hyphen"]
+- !private ["SQ", "isAlphanumeric"]
+- !private ["SQ", "period"]
+- !private ["SQ", "underscore"]
+- !private ["s27ExpressibleByIntegerLiteralP", "asterisk"]
+- !private ["s27ExpressibleByIntegerLiteralP", "colon"]
+- !private ["s27ExpressibleByIntegerLiteralP", "forwardSlash"]
+- !private ["s27ExpressibleByIntegerLiteralP", "hyphen"]
+- !private ["s27ExpressibleByIntegerLiteralP", "isAlphanumeric"]
+- !private ["s27ExpressibleByIntegerLiteralP", "period"]
+- !private ["s27ExpressibleByIntegerLiteralP", "underscore"]
+- !private ["s17FixedWidthIntegerP", "asterisk"]
+- !private ["s17FixedWidthIntegerP", "colon"]
+- !private ["s17FixedWidthIntegerP", "forwardSlash"]
+- !private ["s17FixedWidthIntegerP", "hyphen"]
+- !private ["s17FixedWidthIntegerP", "isAlphanumeric"]
+- !private ["s17FixedWidthIntegerP", "period"]
+- !private ["s17FixedWidthIntegerP", "underscore"]
+- !private ["SH", "asterisk"]
+- !private ["SH", "colon"]
+- !private ["SH", "forwardSlash"]
+- !private ["SH", "hyphen"]
+- !private ["SH", "isAlphanumeric"]
+- !private ["SH", "period"]
+- !private ["SH", "underscore"]
+- !private ["s25LosslessStringConvertibleP", "asterisk"]
+- !private ["s25LosslessStringConvertibleP", "colon"]
+- !private ["s25LosslessStringConvertibleP", "forwardSlash"]
+- !private ["s25LosslessStringConvertibleP", "hyphen"]
+- !private ["s25LosslessStringConvertibleP", "isAlphanumeric"]
+- !private ["s25LosslessStringConvertibleP", "period"]
+- !private ["s25LosslessStringConvertibleP", "underscore"]
+- !private ["Sj", "asterisk"]
+- !private ["Sj", "colon"]
+- !private ["Sj", "forwardSlash"]
+- !private ["Sj", "hyphen"]
+- !private ["Sj", "isAlphanumeric"]
+- !private ["Sj", "period"]
+- !private ["Sj", "underscore"]
+- !private ["4Core19ReflectionDecodableP", "asterisk"]
+- !private ["4Core19ReflectionDecodableP", "colon"]
+- !private ["4Core19ReflectionDecodableP", "forwardSlash"]
+- !private ["4Core19ReflectionDecodableP", "hyphen"]
+- !private ["4Core19ReflectionDecodableP", "isAlphanumeric"]
+- !private ["4Core19ReflectionDecodableP", "period"]
+- !private ["4Core19ReflectionDecodableP", "underscore"]
+- !private ["Sx", "asterisk"]
+- !private ["Sx", "colon"]
+- !private ["Sx", "forwardSlash"]
+- !private ["Sx", "hyphen"]
+- !private ["Sx", "isAlphanumeric"]
+- !private ["Sx", "period"]
+- !private ["Sx", "underscore"]
+- !private ["11TemplateKit0A17DataRepresentableP", "asterisk"]
+- !private ["11TemplateKit0A17DataRepresentableP", "colon"]
+- !private ["11TemplateKit0A17DataRepresentableP", "forwardSlash"]
+- !private ["11TemplateKit0A17DataRepresentableP", "hyphen"]
+- !private ["11TemplateKit0A17DataRepresentableP", "isAlphanumeric"]
+- !private ["11TemplateKit0A17DataRepresentableP", "period"]
+- !private ["11TemplateKit0A17DataRepresentableP", "underscore"]
+- ["s5UInt8V", "Bool"]
+- !private ["s5UInt8V", "asterisk"]
+- !private ["s5UInt8V", "colon"]
+- !private ["s5UInt8V", "forwardSlash"]
+- !private ["s5UInt8V", "hyphen"]
+- ["s5UInt8V", "isAllowedInIdentifier"]
+- ["s5UInt8V", "isAllowedInTagName"]
+- !private ["s5UInt8V", "isAlphanumeric"]
+- !private ["s5UInt8V", "period"]
+- !private ["s5UInt8V", "underscore"]
+- !private ["SU", "asterisk"]
+- !private ["SU", "colon"]
+- !private ["SU", "forwardSlash"]
+- !private ["SU", "hyphen"]
+- !private ["SU", "isAlphanumeric"]
+- !private ["SU", "period"]
+- !private ["SU", "underscore"]
+- !private ["s18_BitwiseOperationsP", "asterisk"]
+- !private ["s18_BitwiseOperationsP", "colon"]
+- !private ["s18_BitwiseOperationsP", "forwardSlash"]
+- !private ["s18_BitwiseOperationsP", "hyphen"]
+- !private ["s18_BitwiseOperationsP", "isAlphanumeric"]
+- !private ["s18_BitwiseOperationsP", "period"]
+- !private ["s18_BitwiseOperationsP", "underscore"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "asterisk"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "colon"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "forwardSlash"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "hyphen"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "isAlphanumeric"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "period"]
+- !private ["s35_ExpressibleByBuiltinIntegerLiteralP", "underscore"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "asterisk"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "colon"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "forwardSlash"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "hyphen"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "isAlphanumeric"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "period"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "underscore"]
+- !private ["s21_ObjectiveCBridgeableP", "asterisk"]
+- !private ["s21_ObjectiveCBridgeableP", "colon"]
+- !private ["s21_ObjectiveCBridgeableP", "forwardSlash"]
+- !private ["s21_ObjectiveCBridgeableP", "hyphen"]
+- !private ["s21_ObjectiveCBridgeableP", "isAlphanumeric"]
+- !private ["s21_ObjectiveCBridgeableP", "period"]
+- !private ["s21_ObjectiveCBridgeableP", "underscore"]
+- !private ["s14_StringElementP", "asterisk"]
+- !private ["s14_StringElementP", "colon"]
+- !private ["s14_StringElementP", "forwardSlash"]
+- !private ["s14_StringElementP", "hyphen"]
+- !private ["s14_StringElementP", "isAlphanumeric"]
+- !private ["s14_StringElementP", "period"]
+- !private ["s14_StringElementP", "underscore"]
+depends-nominal:
+- !private "4Core22AnyReflectionDecodableP"
+- !private "21NIOConcurrencyHelpers15AtomicPrimitiveP"
+- !private "Sz"
+- !private "s7CVarArgP"
+- !private "SL"
+- !private "s29CustomPlaygroundQuickLookableP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- !private "SQ"
+- !private "s27ExpressibleByIntegerLiteralP"
+- !private "s17FixedWidthIntegerP"
+- !private "SH"
+- !private "s25LosslessStringConvertibleP"
+- !private "Sj"
+- !private "4Core19ReflectionDecodableP"
+- !private "Sx"
+- !private "11TemplateKit0A17DataRepresentableP"
+- "s5UInt8V"
+- !private "SU"
+- !private "s18_BitwiseOperationsP"
+- !private "s35_ExpressibleByBuiltinIntegerLiteralP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s14_StringElementP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.apinotesc"
+- "/Users/brunodaluz/Desktop/project/Build/Products/Debug/NIO.framework/Modules/NIO.swiftmodule/x86_64.swiftmodule"
+- "/Users/brunodaluz/Desktop/project/Build/Products/Debug/Async.framework/Modules/Async.swiftmodule/x86_64.swiftmodule"
+- "/Users/brunodaluz/Desktop/project/Build/Products/Debug/Service.framework/Modules/Service.swiftmodule/x86_64.swiftmodule"
+- "/Users/brunodaluz/Desktop/project/Build/Products/Debug/Core.framework/Modules/Core.swiftmodule/x86_64.swiftmodule"
+- "/Users/brunodaluz/Desktop/project/Build/Products/Debug/Debugging.framework/Modules/Debugging.swiftmodule/x86_64.swiftmodule"
+- "/Users/brunodaluz/Desktop/project/Build/Products/Debug/COperatingSystem.framework/Modules/COperatingSystem.swiftmodule/x86_64.swiftmodule"
+- "/Users/brunodaluz/Desktop/project/Build/Products/Debug/NIOConcurrencyHelpers.framework/Modules/NIOConcurrencyHelpers.swiftmodule/x86_64.swiftmodule"
+- "/Users/brunodaluz/Desktop/project/Build/Products/Debug/Bits.framework/Modules/Bits.swiftmodule/x86_64.swiftmodule"
+- "/Users/brunodaluz/Desktop/project/Build/Products/Debug/NIOFoundationCompat.framework/Modules/NIOFoundationCompat.swiftmodule/x86_64.swiftmodule"
+- "/Users/brunodaluz/Desktop/project/Build/Products/Debug/TemplateKit.framework/Modules/TemplateKit.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/IOKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio.git--325538877768392360/Sources/CNIOAtomics/include/cpp_magic.h"
+- "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio.git--325538877768392360/Sources/CNIODarwin/include/c_nio_darwin.h"
+- "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio.git--325538877768392360/Sources/CNIOAtomics/include/c-atomics.h"
+- "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio.git--325538877768392360/Sources/CNIOLinux/include/c_nio_linux.h"
+- "/Users/brunodaluz/Desktop/project/project.xcodeproj/GeneratedModuleMap/CNIOSHA1/module.modulemap"
+- "/Users/brunodaluz/Desktop/project/.build/checkouts/swift-nio-zlib-support.git-4597058737275259177/module.modulemap"
+- "/Users/brunodaluz/Desktop/project/project.xcodeproj/GeneratedModuleMap/CNIODarwin/module.modulemap"
+- "/Users/brunodaluz/Desktop/project/project.xcodeproj/GeneratedModuleMap/CNIOAtomics/module.modulemap"
+- "/Users/brunodaluz/Desktop/project/project.xcodeproj/GeneratedModuleMap/CNIOLinux/module.modulemap"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/ApplicationServices.framework/Headers/ApplicationServices.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode-beta.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "6c6f58681f0bf2cf40a28e42043e46d6"

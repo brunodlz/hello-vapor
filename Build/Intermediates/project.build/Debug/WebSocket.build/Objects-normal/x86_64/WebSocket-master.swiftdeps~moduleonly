@@ -1,0 +1,9 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.40 clang-1000.11.45.1)"
+options: "396402ac35eff1b0153569a50948eb51"
+build_time: [1546026163, 981428000]
+inputs:
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/websocket.git--6258853730690749756/Sources/WebSocket/Exports.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/websocket.git--6258853730690749756/Sources/WebSocket/WebSocket+Client.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/websocket.git--6258853730690749756/Sources/WebSocket/WebSocket+Server.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/websocket.git--6258853730690749756/Sources/WebSocket/WebSocket.swift": [1546026123, 0]
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/websocket.git--6258853730690749756/Sources/WebSocket/WebSocketHandler.swift": [1546026123, 0]

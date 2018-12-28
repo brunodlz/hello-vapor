@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.40 clang-1000.11.45.1)"
+options: "ddc23e228921c4ec968f2f66a80d45c2"
+build_time: [1546026140, 978670000]
+inputs:
+  "/Users/brunodaluz/Desktop/project/.build/checkouts/core.git-3993699855654508100/Sources/COperatingSystem/libc.swift": [1546026121, 0]
